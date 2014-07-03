@@ -1,8 +1,8 @@
-AvaliacaoTendencias
+AvaliaçãoTenências
 ===================
 Instituição:Senai Florianópolis
 
-Disciplina:Têndencias e demandas
+Disciplina:Tendências e demandas
 
 Professor:Eder Lima Soares
 
